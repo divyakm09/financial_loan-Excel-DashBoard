@@ -39,27 +39,27 @@ An interactive Excel dashboard visualizing bank loan application data with KPIs,
 ## 📈📌  Key Performance Questions (KPIs): (Derived from Dashboard):
 These KPIs help monitor loan performance, identify risks, and guide decision-making:
 
-🔹 How many total loan applications were submitted this month (MTD)?
-🔹 What is the total funded amount and its month-over-month (MoM) growth?
-🔹 What percentage of loans are classified as good (fully paid) versus bad (charged off)?
-🔹 How much of the total loan amount has been successfully recovered this month?
-🔹 What is the average interest rate, and how has it changed compared to last month?
-🔹 What is the average Debt-to-Income (DTI) ratio, and is it improving?
-🔹 Which states have the highest and lowest number of loan applications?
-🔹 What are the most common purposes for loan applications (e.g., credit card, home improvement)?
-🔹 How does employment length impact the number of loan applications?
-🔹 What is the distribution of loan term preferences (36 months vs. 60 months)?
-🔹 How do verification statuses (not verified, source verified, verified) impact funding?
-🔹 What trends can be observed in loan applications month-over-month throughout the year?
-🔹 What percentage of applicants rent, own, or have a mortgage on their home?
-🔹 Which loan grade (A–G) has the highest volume of applications?
-🔹 What is the average interest rate and DTI for charged-off loans versus fully paid loans?
-🔹 How many loans are currently active (not fully paid or charged off)?
-🔹 What is the total number of bad loan applications and their associated financial loss?
+- 🔹 How many total loan applications were submitted this month (MTD)?
+- 🔹 What is the total funded amount and its month-over-month (MoM) growth?
+- 🔹 What percentage of loans are classified as good (fully paid) versus bad (charged off)?
+- 🔹 How much of the total loan amount has been successfully recovered this month?
+- 🔹 What is the average interest rate, and how has it changed compared to last month?
+- 🔹 What is the average Debt-to-Income (DTI) ratio, and is it improving?
+- 🔹 Which states have the highest and lowest number of loan applications?
+- 🔹 What are the most common purposes for loan applications (e.g., credit card, home improvement)?
+- 🔹 How does employment length impact the number of loan applications?
+- 🔹 What is the distribution of loan term preferences (36 months vs. 60 months)?
+- 🔹 How do verification statuses (not verified, source verified, verified) impact funding?
+- 🔹 What trends can be observed in loan applications month-over-month throughout the year?
+- 🔹 What percentage of applicants rent, own, or have a mortgage on their home?
+- 🔹 Which loan grade (A–G) has the highest volume of applications?
+- 🔹 What is the average interest rate and DTI for charged-off loans versus fully paid loans?
+- 🔹 How many loans are currently active (not fully paid or charged off)?
+- 🔹 What is the total number of bad loan applications and their associated financial loss?
   
 ## Dashboard Interaction
-- <a href="https://github.com/divyakm09/financial_loan-Excel-DashBoard/blob/main/overview.JPG"> View Dashboard <a>
-- <a href="https://github.com/divyakm09/financial_loan-Excel-DashBoard/blob/main/summary.JPG"> View Dashboard <a>
+- <a href="https://github.com/divyakm09/financial_loan-Excel-DashBoard/blob/main/overview.JPG"> Overview Dashboard <a>
+- <a href="https://github.com/divyakm09/financial_loan-Excel-DashBoard/blob/main/summary.JPG"> Summary Dashboard <a>
 
 ## 📈🔄 Process:
 1) Collected and cleaned raw bank loan data.
